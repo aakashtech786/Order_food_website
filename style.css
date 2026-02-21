@@ -33,8 +33,6 @@ header {
   position: sticky;
   top: 0;
   z-index: 3;
-  width:100vw;
- 
 }
 
 .navbar {
@@ -46,6 +44,7 @@ header {
   margin: auto;
   padding: 1rem 2rem;
   position: relative;
+  width: 100vw;
  
 }
 
